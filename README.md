@@ -1,4 +1,4 @@
--rodowisko-Programisty
+Srodowisko-Programisty
 ======================
 Zadanie 1
 
